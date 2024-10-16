@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab5-1</string>
+    <string name="name">Name</string>
+    <string name="label_for_name_input">Label for name input</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="add_name">Add Name</string>
+    <string name="button_to_add_the_name">Button to add the name</string>
+</resources>
