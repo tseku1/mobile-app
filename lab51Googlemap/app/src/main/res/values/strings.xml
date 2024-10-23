@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab5-1 Google map</string>
+    
+    <string name="my_map_api_key">AIzaSyBr3G3ZjrG7SelMDKWHaWBhcvbSzVVPj0o</string>
+</resources>
